@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "371346208544",
+    "project_id": "face-recognition-flutter-test",
+    "storage_bucket": "face-recognition-flutter-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371346208544:android:e75b91b93e6e75363cc945",
+        "android_client_info": {
+          "package_name": "com.ahura.face_recognition_flutter_test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371346208544-f5sigc71agnd1b33rkdgg2ei3epo2ev7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9zTH73AYemlkJkWzpZtKAL8NQ3xae378"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371346208544-f5sigc71agnd1b33rkdgg2ei3epo2ev7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371346208544:android:1e42bb45a9ad354b3cc945",
+        "android_client_info": {
+          "package_name": "com.example.face_recognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371346208544-f5sigc71agnd1b33rkdgg2ei3epo2ev7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9zTH73AYemlkJkWzpZtKAL8NQ3xae378"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371346208544-f5sigc71agnd1b33rkdgg2ei3epo2ev7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371346208544:android:426ffbe6d8a6978f3cc945",
+        "android_client_info": {
+          "package_name": "ml.rishitdagli.face_recog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371346208544-f5sigc71agnd1b33rkdgg2ei3epo2ev7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9zTH73AYemlkJkWzpZtKAL8NQ3xae378"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371346208544-f5sigc71agnd1b33rkdgg2ei3epo2ev7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
